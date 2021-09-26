@@ -10,14 +10,4 @@ toc = ""
 +++
 Hi perkenalkan aku aditya pambudi utomo biasa si panggil tomo umur aku 17 tahun. Aku sekolah di smkn pasirian jurusan multimedia kelas XII. Hobi aku mengedit beberapa bulan kemarin aku belajar ngedit di blender dan ini hasil pertama an terakhir ku.
 
-1. Donut 🍩
-
-project pertama
-
-![project pertama](/uploads/new-project-224-933e035.png "Donut 🍩")
-
-2. Lonely place
-
-Projects terahir
-
-![Projects terakhir](/uploads/lonely.png "Lonely place")
+![](/uploads/new-project-224-6cb53fd.png)
